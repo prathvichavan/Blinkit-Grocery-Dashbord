@@ -15,15 +15,19 @@ This Power BI project visualizes Blinkit's grocery data, providing actionable in
 - *Data Source*: Blinkit Grocery Data
 - *Visualizations*: Pie charts, bar charts, line graphs, KPI indicators, and data tables.
 
-## Dataset
-The dataset includes the following fields:
+## Dataset Fields
+- Item Fat Content
+- Item Identifier
+- Item Type
+- Outlet Establishment Year
+- Outlet Identifier
 - Outlet Location Type
 - Outlet Size
-- Item Type
+- Outlet Type
+- Item Visibility
+- Item Weight
 - Sales
-- Average Ratings
-- Number of Items
-- Fat Content
+- Rating
 
 ## Code Execution Steps
 1. *Data Loading*: Import Blinkit grocery data into Power BI.
