@@ -53,6 +53,6 @@ The dashboard effectively highlights:
 
 ## Contact Information
 *Prathviraj Chavan*  
-- *Email*: [mr.prathvirajchavan@gmail.com](mailto:mr.prathvirajchavan@gmail.com)  
-- *LinkedIn*: [[Your LinkedIn Pr](http://linkedin.com/in/prathvirajchavan)](#)  
-- *GitHub*: [[Your GitHub Profile](https://github.com/prathvichavan)](#)
+- *Email*: [Email](mailto:mr.prathvirajchavan@gmail.com)  
+- *LinkedIn*: [[Linkdin Profile](http://linkedin.com/in/prathvirajchavan)](#)  
+- *GitHub*: [[GitHub Profile](https://github.com/prathvichavan)](#)
